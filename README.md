@@ -13,7 +13,7 @@ This repo is for the collection of information and progress tracking of the 10mi
 - [x] Configurator project configured to enable and use VSCode extensions for live debug, editing with static-analysis and autoformatting
   - More automated testing work needed
 - [x] Inital testing installing and activating GreenGrass on a Raspbery Pi, and pushing an active and functioning lambda to it
-- [x] Automated provisioning of GreenGrass cloud components in CloudFormation
+- [x] Automated provisioning of GreenGrass cloud components with CloudFormation
 - [ ] Create a Labmda that has a physical action (light blinks, button-push shows change on AWS IoT dashboard)
 - [ ] Wire AWS Cognito into GraphQL server and Configurator for Auth
 - [ ] Create GreenGrass Lambda form of GraphQL Server for local control, *and* cloud GraphQL server on device shadow. 
