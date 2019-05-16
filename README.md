@@ -5,6 +5,7 @@ This repo is for the collection of information and progress tracking of the 10mi
 # Milestones
 
 - [x] AWS [IoT Writeup](https://docs.google.com/document/d/1sBggp7f5gFwUyEXlZdw8z2d6sxHFrxzkvh7kkr5OD_M/edit?usp=sharing) (readable to all of 10mi2, outside of 10mi2 needs permission to read)
+
 - [x] Node-based GraphQL Server (with in-memory database) - using Apollo Server, business logic <200 lines of code
 - [x] [Configurator](https://github.com/synthetos/fabmo-g2core-config) converted to use GraphQL for schema and backend instead of REST + custom schema DSL
   - Updated to latest Angular
