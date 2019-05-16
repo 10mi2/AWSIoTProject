@@ -18,7 +18,7 @@ This repo is for the collection of information and progress tracking of the 10mi
 - [ ] Wire AWS Cognito into GraphQL server and Configurator for Auth
 - [ ] Create GreenGrass Lambda form of GraphQL Server for local control, *and* cloud GraphQL server on device shadow. 
   - [ ] Wire Configurator to be able to connect either way
-- [ ] Complete GraphQL server functionality to talk to physical G2 hardware, and add IoT Job handling functinality
+- [ ] Complete GraphQL server functionality to talk to physical G2 hardware, and add IoT Job handling functionality
 - [ ] Handle provisioning and packaging for productized hardware for these four scenarios:
   - Primary concern is security, where the product is effectively open to the customer, while still providing easy onboarding
   - [ ] Direct-to-consumer product - manufacturer is also the service provider to many customers
