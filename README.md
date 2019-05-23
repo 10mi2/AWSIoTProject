@@ -2,6 +2,10 @@
 
 This repo is for the collection of information and progress tracking of the 10mi2 AWS IoT Project
 
+# Documentation
+
+Please see the [wiki](https://github.com/10mi2/AWSIoTProject/wiki) for documentation.
+
 # Milestones
 
 - [x] AWS [IoT Writeup](https://docs.google.com/document/d/1sBggp7f5gFwUyEXlZdw8z2d6sxHFrxzkvh7kkr5OD_M/edit?usp=sharing) (readable to all of 10mi2, outside of 10mi2 needs permission to read)
